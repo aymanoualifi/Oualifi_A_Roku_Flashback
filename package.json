@@ -1,7 +1,7 @@
 {
   "name": "roku_server",
   "version": "1.0.0",
-  "description": "roku temp server",
+  "description": "roku server",
   "main": "index.js",
   "scripts": {
     "start": "node server"
